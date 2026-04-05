@@ -1,14 +1,64 @@
-👋 Hi, I’m @Sharafatnoa
+# 👋 Hi, I’m Shamsunnur Ibn Arefin (@Sharafatnoa)
 
-👀 I’m passionate about identifying product issues, improving features, and working with data.
+🎓 Master’s Student in **Data Science (Sweden)**
+💡 Former **Software Quality Assurance Engineer (5+ years)** transitioning into **Data Science & Machine Learning**
 
-🌱 Currently pursuing a Master’s in Data Science.
+---
 
-💼 Interested in automation testing and excited to grow in data science and machine learning.
+## 🔍 About Me
 
-🤝 Open to collaboration on automation testing or data-driven projects.
+* 🔎 Passionate about **data-driven problem solving and model evaluation**
+* 🧠 Strong interest in **Machine Learning, Deep Learning, and AI systems**
+* 🛠️ Experienced in **software testing, automation, and system quality assurance**
+* 🔄 Currently transitioning from **SQA → Data Science / ML roles**
 
-📫 Reach me at sharafatnoa@gmail.com
+---
+
+## 🚀 What I’m Working On
+
+* 📊 Building end-to-end **Machine Learning projects**
+* 🤖 Exploring **Deep Learning (CNN, Transfer Learning, Computer Vision)**
+* 🧪 Developing **ML testing & validation frameworks**
+* 📈 Improving skills in **data analysis, modeling, and deployment**
+
+---
+
+## 💻 Skills
+
+**Data Science & ML**
+
+* Python, NumPy, Pandas, Scikit-learn
+* TensorFlow / Keras
+* Data preprocessing & visualization
+* Model evaluation & validation
+
+**Software Quality Assurance**
+
+* Test automation (Playwright, Selenium)
+* API testing, SQL validation
+* Test case design & defect analysis
+
+---
+
+## 🤝 Open to Opportunities
+
+* 💼 Data Science / Machine Learning roles
+* 📊 Data Analyst / Data Engineer roles
+* 🧪 ML Quality / AI Testing roles
+
+---
+
+## 📫 Contact
+
+📧 Email: [sharafatnoa@gmail.com](mailto:sharafatnoa@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/s-n-ibn-arefin-abb991123/
+
+---
+
+## ⚡ Fun Fact
+
+I combine **QA thinking + Data Science**, which helps me build more **reliable and trustworthy ML systems**.
+
 <!---
 Sharafatnoa/Sharafatnoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
